@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_void">#000000</color>
+    <color name="color_ash">#9D9D9D</color>
+    <color name="color_blind">#FFFFFF</color>
+    <color name="color_bloored">#BE2633</color>
+    <color name="color_pigmeat">#E06F8B</color>
+    <color name="color_oldpoop">#493C2B</color>
+    <color name="color_newpoop">#A46422</color>
+    <color name="color_blaze">#EB8931</color>
+    <color name="color_zornskin">#F7E26B</color>
+    <color name="color_shadegreen">#2F484E</color>
+    <color name="color_leafgreen">#44891A</color>
+    <color name="color_slimgreen">#A3CE27</color>
+    <color name="color_nightblue">#1B2632</color>
+    <color name="color_seablue">#005784</color>
+    <color name="color_skyblue">#31A2F2</color>
+    <color name="color_cloudblue">#B2DCEF</color>
+</resources>

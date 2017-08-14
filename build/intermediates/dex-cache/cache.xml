@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\dev\StudioWorkspace\Horoscope\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-0b3334526c4a1f1823b808b4cfbd3a1bfef652bc.jar"
+        jar="D:\dev\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="D:\dev\StudioWorkspace\Horoscope\app\build\intermediates\pre-dexed\debug\gson-2.2.4-f8ddaac63e49067bf36815f5cf6cda679b3ae5ae.jar"
+        jar="C:\Users\osman\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="D:\dev\StudioWorkspace\Horoscope\app\build\intermediates\pre-dexed\debug\classes-adcf9b577e04ed799c73b140c9a69ce9f434b027.jar"
+        jar="D:\dev\StudioWorkspace\Horoscope\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="D:\dev\StudioWorkspace\Horoscope\app\build\intermediates\pre-dexed\debug\classes-961a84a9e508bc28c47be93d103e94f5a823b5be.jar"
+        jar="D:\dev\StudioWorkspace\Horoscope\build\intermediates\exploded-aar\com.github.manuelpeinado.fadingactionbar\fadingactionbar\3.1.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1db28e119b406a5fe367b63fb1be083d5dfe298a"/>
+    <item
+        dex="D:\dev\StudioWorkspace\Horoscope\app\build\intermediates\pre-dexed\debug\classes-2c43ac47bbdc01a5b9ae13e1a5c0cbf2bd11017d.jar"
+        jar="D:\dev\StudioWorkspace\Horoscope\build\intermediates\exploded-aar\Horoscope\ParallaxScroll\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="972fe54e01066f6d4a21eeee7025e814e15c5318"/>
+
+</pre-dex-items>

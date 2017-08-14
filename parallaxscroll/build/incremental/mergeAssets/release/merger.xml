@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="F:\workspace-idea\Horoscope\ParallaxScroll\src\main\assets" />
+        <source path="F:\workspace-idea\Horoscope\ParallaxScroll\assets" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="F:\workspace-idea\Horoscope\ParallaxScroll\src\release\assets" />
+    </dataSet>
+
+</merger>
